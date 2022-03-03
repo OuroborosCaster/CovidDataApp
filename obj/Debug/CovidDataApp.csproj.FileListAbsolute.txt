@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\CovidDataApp\obj\Debug\CovidDataApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CovidDataApp\obj\Debug\CovidDataApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\CovidDataApp\obj\Debug\CovidDataApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CovidDataApp\bin\Debug\CovidDataApp.exe.config
+C:\Users\Lenovo\source\repos\CovidDataApp\bin\Debug\CovidDataApp.exe
+C:\Users\Lenovo\source\repos\CovidDataApp\bin\Debug\CovidDataApp.pdb
+C:\Users\Lenovo\source\repos\CovidDataApp\obj\Debug\CovidDataApp.exe
+C:\Users\Lenovo\source\repos\CovidDataApp\obj\Debug\CovidDataApp.pdb
