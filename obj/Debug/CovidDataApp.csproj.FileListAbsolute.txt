@@ -6,3 +6,5 @@ C:\Users\Lenovo\source\repos\CovidDataApp\bin\Debug\CovidDataApp.exe
 C:\Users\Lenovo\source\repos\CovidDataApp\bin\Debug\CovidDataApp.pdb
 C:\Users\Lenovo\source\repos\CovidDataApp\obj\Debug\CovidDataApp.exe
 C:\Users\Lenovo\source\repos\CovidDataApp\obj\Debug\CovidDataApp.pdb
+C:\Users\Lenovo\source\repos\CovidDataApp\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\Lenovo\source\repos\CovidDataApp\obj\Debug\CovidDataApp.csproj.ResolveComReference.cache
